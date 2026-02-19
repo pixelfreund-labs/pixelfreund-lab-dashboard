@@ -10,13 +10,13 @@
 
 ## Stack
 
-| Dienst | Zweck |
-|--------|-------|
-| Next.js 16 (App Router) | Framework |
-| Shadcn/ui | UI-Komponenten |
-| Tailwind CSS | Styling |
-| next-themes | Dark Mode |
-| Vercel | Hosting (Free/Hobby Tier) |
+| Dienst                  | Zweck                     |
+| ----------------------- | ------------------------- |
+| Next.js 16 (App Router) | Framework                 |
+| Shadcn/ui               | UI-Komponenten            |
+| Tailwind CSS            | Styling                   |
+| next-themes             | Dark Mode                 |
+| Vercel                  | Hosting (Free/Hobby Tier) |
 
 ## Phasen
 
@@ -48,3 +48,7 @@ Vercel ist bereits verknüpft. Jeder Push auf `main` löst ein Deployment aus.
 ```bash
 git push origin main
 ```
+
+## Next Steps
+
+- Overview über gesamte Brain nach Phasen
